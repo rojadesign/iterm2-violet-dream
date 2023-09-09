@@ -19,3 +19,9 @@ This is a [iTerm2](https://iterm2.com/) color theme inspired by the [Violet Drea
 ### Color Settings
 
 <img width="720" alt="example" src="./iterm2-preferences-profiles-colors.png">
+
+---
+
+### Ressources & Inspirations
+
+- [Violet Dream – VS Code Theme](https://github.com/AlexandreFPGoncalves/violet-dream) by [Alexandre Gonçalves](https://github.com/AlexandreFPGoncalves)
